@@ -1,7 +1,7 @@
 # STATS220
 Welcome to the STATS220 Project 1 Repository! This repository contains all the necessary files and resources for completing Project 1 of STATS220.
 
-![pika](https://i.gifer.com/7rCc.gif)
+![pika](7rCc.gif)
 
 ## About STATS220
 
